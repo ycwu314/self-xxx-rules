@@ -1,0 +1,23 @@
+payload:
+  - '+.sentry.io'    
+  - 'smovie.1pondo.tv'  
+  - 'mc.yandex.ru'
+# edge browser
+  - 'arc.msn.com'
+  - 'api.msn.com'
+  - 'pipe.aria.microsoft.com'
+  - 'ntp.msn.com'
+  - 'web.vortex.data.microsoft.com'
+  - 'browser.events.data.msn.com'
+  - 'www.msn.com'
+  - 'assets.msn.com'
+  - 'c.msn.com'
+# edge browser china
+  - 'api.msn.cn'
+  - 'pipe.aria.microsoft.cn'
+  - 'ntp.msn.cn'
+  - 'web.vortex.data.microsoft.cn'
+  - 'browser.events.data.msn.cn'
+  - 'www.msn.cn'
+  - 'assets.msn.cn'
+  - 'c.msn.cn'
