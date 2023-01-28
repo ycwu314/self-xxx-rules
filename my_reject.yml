@@ -12,6 +12,7 @@ payload:
   - 'www.msn.com'
   - 'assets.msn.com'
   - 'c.msn.com'
+  - 'functional.events.data.microsoft.com'
 # edge browser china
   - 'api.msn.cn'
   - 'pipe.aria.microsoft.cn'
