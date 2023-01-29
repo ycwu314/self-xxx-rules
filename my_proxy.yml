@@ -25,6 +25,7 @@ payload:
   - 'api.cyberconnect.dev'
   - '+.plausible.io'
   - '+.cassava.network'
+  - '+.near.org'
 # tools
   - '+.forbes.com'
   - 'hcaptcha.com'
