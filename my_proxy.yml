@@ -1,4 +1,5 @@
 payload:
+# web3
   - '+.etherscan.io'
   - '+.ethplorer.io'
   - 'mainnet.infura.io'
@@ -24,6 +25,7 @@ payload:
   - 'api.cyberconnect.dev'
   - '+.plausible.io'
   - '+.cassava.network'
+# tools
   - '+.forbes.com'
   - 'hcaptcha.com'
   - 'www.foobar2000.org'
