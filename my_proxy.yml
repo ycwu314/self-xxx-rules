@@ -26,6 +26,7 @@ payload:
   - '+.plausible.io'
   - '+.cassava.network'
   - '+.near.org'
+  - '+.bscscan.com'
 # tools
   - '+.forbes.com'
   - 'hcaptcha.com'
