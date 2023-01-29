@@ -1,6 +1,7 @@
 payload:
+# report, sentry
   - '+.sentry.io'    
-  - 'smovie.1pondo.tv'  
+  - 'app.posthog.com' 
   - 'mc.yandex.ru'
 # edge browser
   - 'arc.msn.com'
@@ -22,3 +23,5 @@ payload:
   - 'www.msn.cn'
   - 'assets.msn.cn'
   - 'c.msn.cn'
+ # others
+  - 'smovie.1pondo.tv' 
