@@ -33,6 +33,7 @@ payload:
   - 'hcaptcha.com'
   - 'www.foobar2000.org'
   - '+.sourceforge.net'
+  - '+.letsencrypt.org'
   - '+.vimeo.com'
   - '+.hooks.stripe.com'
   - '+.forms.gle'
