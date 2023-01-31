@@ -27,6 +27,7 @@ payload:
   - '+.cassava.network'
   - '+.near.org'
   - '+.bscscan.com'
+  - '+.mirror-api.com'
 # tools
   - '+.forbes.com'
   - 'hcaptcha.com'
