@@ -1,8 +1,10 @@
 payload:
+  # 国内网盘
+  - '+.cjjd15.com'
   - '+.dygang.com'
   - '+.dygang.tv'
   - '+.epicgames.com'
-# dont know what is it  
+  # dont know what is it  
   - '+.dl.delivery.mp.microsoft.com'
   - 'edge.microsoft.com'
   
