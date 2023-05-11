@@ -7,4 +7,6 @@ payload:
   # dont know what is it  
   - '+.dl.delivery.mp.microsoft.com'
   - 'edge.microsoft.com'
+  # 飞书
+  - 'internal-api-lark-api.undefined'
   
