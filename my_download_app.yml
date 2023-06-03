@@ -10,6 +10,8 @@ payload:
   - PROCESS-NAME,Thunder
   - PROCESS-NAME,Thunder.exe
   - PROCESS-NAME,ThunderVIP.exe
+  # 迅雷下载服务
+  - PROCESS-NAME,DownloadSDKServer.exe
   - PROCESS-NAME,Transmission
   - PROCESS-NAME,WebTorrent
   - PROCESS-NAME,WebTorrent.exe
