@@ -9,4 +9,5 @@ payload:
   - 'edge.microsoft.com'
   # 飞书
   - 'internal-api-lark-api.undefined'
+  - '+.tiangong.site'
   
