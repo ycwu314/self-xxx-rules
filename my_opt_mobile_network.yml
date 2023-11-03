@@ -1,0 +1,6 @@
+# 为数据流量优化，屏蔽自动更新
+payload:
+  # windows update
+  - '+.tlu.dl.delivery.mp.microsoft.com'
+  # TODO office
+  # TODO 联想
