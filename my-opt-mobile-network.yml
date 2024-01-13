@@ -1,6 +1,8 @@
-# 为数据流量优化，屏蔽自动更新
+# 为数据流量优化，屏蔽各种自动更新
 payload:
-  # windows update
-  - '+.tlu.dl.delivery.mp.microsoft.com'
-  # TODO office
-  # TODO 联想
+  - '+.microsoft.com'
+  - '+.windowsupdate.com'
+  - '+.vsassets.io'
+  - '+.lenovo.com'
+  - '+.gvt1-cn.com'
+  - '+.gvt1.com'  
