@@ -1,10 +1,12 @@
 # 为数据流量优化，屏蔽各种自动更新
 payload:
-  - '+.microsoft.com'
-  - '+.windowsupdate.com'
-  - '+.vsassets.io'
-  - '+.lenovo.com'
-  - '+.gvt1-cn.com'
-  - '+.gvt1.com'  
-  - '+.office.net'
+  - DOMAIN-SUFFIX, microsoft.com
+  - DOMAIN-SUFFIX, windowsupdate.com
+  - DOMAIN-SUFFIX, vsassets.io
+  - DOMAIN-SUFFIX, lenovo.com
+  - DOMAIN-SUFFIX, gvt1-cn.com
+  - DOMAIN-SUFFIX, gvt1.com  
+  - DOMAIN-SUFFIX, office.net
+  - PROCESS-NAME, MsMpEng
+  - PROCESS-NAME, MpCmdRun
   
