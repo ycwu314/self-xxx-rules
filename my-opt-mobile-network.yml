@@ -9,4 +9,5 @@ payload:
   - DOMAIN-SUFFIX, office.net
   - PROCESS-NAME, MsMpEng
   - PROCESS-NAME, MpCmdRun
-  
+  - PROCESS-NAME, MsMpEng.exe
+  - PROCESS-NAME, MpCmdRun.exe
