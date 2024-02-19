@@ -2,6 +2,7 @@
 payload:
   - DOMAIN-SUFFIX, microsoft.com
   - DOMAIN-SUFFIX, windowsupdate.com
+  - DOMAIN-SUFFIX, oneclient.sfx.ms
   - DOMAIN-SUFFIX, vsassets.io
   - DOMAIN-SUFFIX, lenovo.com
   - DOMAIN-SUFFIX, gvt1-cn.com
@@ -11,3 +12,7 @@ payload:
   - PROCESS-NAME, MpCmdRun
   - PROCESS-NAME, MsMpEng.exe
   - PROCESS-NAME, MpCmdRun.exe
+  - PROCESS-NAME, GoogleUpdate
+  - PROCESS-NAME, GoogleUpdate.exe
+
+  
