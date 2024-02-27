@@ -14,5 +14,9 @@ payload:
   - PROCESS-NAME, MpCmdRun.exe
   - PROCESS-NAME, GoogleUpdate
   - PROCESS-NAME, GoogleUpdate.exe
+  - PROCESS-NAME, MSOfficePLUSService
+  - PROCESS-NAME, MSOfficePLUSService.exe
+
+
 
   
