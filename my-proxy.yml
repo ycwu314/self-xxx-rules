@@ -35,6 +35,8 @@ payload:
   - '+.sourceforge.net'
   - '+.letsencrypt.org'
   - '+.vimeo.com'
+# 字节  
+  - '+.coze.com'
   - '+.hooks.stripe.com'
   - '+.forms.gle'
   - 't.co'
