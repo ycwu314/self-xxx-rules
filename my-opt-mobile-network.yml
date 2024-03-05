@@ -16,6 +16,9 @@ payload:
   - PROCESS-NAME, GoogleUpdate.exe
   - PROCESS-NAME, MSOfficePLUSService
   - PROCESS-NAME, MSOfficePLUSService.exe
+  - PROCESS-NAME, OfficeClickToRun  
+  - PROCESS-NAME, OfficeClickToRun.exe
+  
 
 
 
