@@ -20,7 +20,10 @@ payload:
   - PROCESS-NAME, OfficeClickToRun.exe
   - PROCESS-NAME, LenovoVantageService  
   - PROCESS-NAME, LenovoVantageService.exe
-  
+  - PROCESS-NAME, OneDriveStandaloneUpdater
+  - PROCESS-NAME, OneDriveStandaloneUpdater.exe
+
+
   
 
 
