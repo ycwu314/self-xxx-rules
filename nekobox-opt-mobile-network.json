@@ -1,0 +1,33 @@
+{
+  "rules": [
+      {
+          "domain_suffix": [
+              "msn.com",
+              "msn.cn",
+              "microsoft.com",
+              "microsoft.cn",
+              "windowsupdate.com",
+              "oneclient.sfx.ms",
+              "vsassets.io",
+              "lenovo.com",
+              "gvt1-cn.com",
+              "gvt1.com",
+              "office.net",
+              "mc.yandex.ru"
+          ],
+          "outbound": "block"
+      },
+      {
+        "process_name": [         
+          "MsMpEng",
+          "MpCmdRun",
+          "GoogleUpdate",
+          "MSOfficePLUSService",
+          "OfficeClickToRun",
+          "LenovoVantageService",
+          "OneDriveStandaloneUpdater"
+        ],
+        "outbound": "block"
+      } 
+  ]
+}
